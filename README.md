@@ -29,6 +29,7 @@ Project 2: In this project, we aim to find the likelihood of a customer leaving 
 Project 3: Building a machine learning (regression model) webapp for grocery sales prediction using streamlit
 
 Articles 📚 📚 📚
+
 Unveiling the Drivers of Customer Churn: An Analytical Journey to Improve Retention
 
 Building a Customer Churn Prediction Web App with Gradio: A Step-by-Step Guide
